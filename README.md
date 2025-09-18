@@ -10,4 +10,4 @@
 `/vomit`
 `/sneeze`
 
-${{\color{Green}\Huge{\textsf{  Hi\ there\ \}}}}\$
+${{\color{lightgreen}\Huge{\textsf{  /meta\ \}}}}\$
