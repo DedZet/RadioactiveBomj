@@ -4,8 +4,8 @@
 `1.21`
 
 # Commands
-## `/library`
-## `/spit`
-## `/vomit`
-## `/sneeze`
-## `/meta`
+`/library`
+`/spit`
+`/vomit`
+`/sneeze`
+`/meta`
