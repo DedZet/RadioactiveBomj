@@ -3,8 +3,9 @@
 # Supported server versions
 `1.21`
 
-# Features
-
-`/spit`
-`/vomit`
-`/library`
+# Commands
+## `/library`
+## `/spit`
+## `/vomit`
+## `/sneeze`
+## `/meta`
