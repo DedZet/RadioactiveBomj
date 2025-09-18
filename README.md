@@ -5,9 +5,8 @@
 
 # Commands
 ${{\color{lightgreen}\Huge{\textsf{/library\}}}}\$
-`/meta`
-`/spit`
-`/vomit`
-`/sneeze`
+${{\color{lightgreen}\Huge{\textsf{/meta\}}}}\$
+${{\color{lightgreen}\Huge{\textsf{/spit\}}}}\$
+${{\color{lightgreen}\Huge{\textsf{/sneeze\}}}}\$
+${{\color{lightgreen}\Huge{\textsf{/vomit\}}}}\$
 
-${{\color{lightgreen}\Huge{\textsf{  /meta\ \}}}}\$
