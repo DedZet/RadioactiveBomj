@@ -4,8 +4,9 @@
 `1.21`
 
 # Commands
-`/library`
+<font style="color:aaffaa; font-size:40px"> `/library` </font>
+`/meta`
 `/spit`
 `/vomit`
 `/sneeze`
-`/meta`
+
