@@ -10,4 +10,4 @@
 `/vomit`
 `/sneeze`
 
-$${\color{lightgreen}Light \space Green}$$
+${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
