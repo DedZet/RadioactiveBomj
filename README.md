@@ -4,7 +4,7 @@
 `1.21`
 
 # Commands
-<font style="color:aaffaa; font-size:40px"> library </font>
+${{\color{lightgreen}\Huge{\textsf{/library\}}}}\$
 `/meta`
 `/spit`
 `/vomit`
