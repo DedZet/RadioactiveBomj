@@ -1,5 +1,7 @@
 # RADIOACTIVE BOMJ
-<img width="255" height="1000" alt="RB" src="https://github.com/user-attachments/assets/6f7d1d92-0540-4162-bcd9-c547b0cf851d" />
+
+<img width="1000" height="1000" alt="RB" src="https://github.com/user-attachments/assets/81564df0-f793-441a-baa8-3fb97a1f63ce" />
+
 
 # Supported server versions
 `1.21+`
